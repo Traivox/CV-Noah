@@ -79,7 +79,14 @@ html, body {
     margin-bottom: 15px;
     font-size: 1.1rem;
 }
+/* Project styles */
+.project ul {
+    margin-left: 25px;
+}
 
+.project li {
+    margin-bottom: 8px;
+}
 /* Job and education styles */
 .job, .education {
     margin-bottom: 20px;
